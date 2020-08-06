@@ -76,3 +76,4 @@ console.log(_.eq(paulMcCartney, _.shuffle(paulMcCartney))) // checks if two arra
 console.log(_.gte(40, 10)) // Compares if 40 (value) is bigger than 10 (other)
 console.log(`${_.now()} milliseconds have passed since the Unix epoch!`) // Grabs current milliseconds
 console.log(_.size(numberedArray)) // returns the number of values from an array
+//
